@@ -11,3 +11,8 @@ sky:
     access-key-id: your-access-key
     access-key-secret: your-secret
     bucket-name: sky-takeout-mewtwo
+  redis:
+    host: localhost
+    port: 6379
+    database: 10
+#    password:
